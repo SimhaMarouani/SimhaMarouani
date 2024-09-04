@@ -1,6 +1,7 @@
 # Hi, I'm Simha Marouani!  👋 #
 
-Junior Software Enginner
+## Who Am I? ##
+A Junior Software Enginner
 
 ## A little more about me... ##
 ``` python3
