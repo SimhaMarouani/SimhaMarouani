@@ -3,9 +3,7 @@
 Junior Software Enginner
 
 ## A little more about me... ## 
-c++
-cout << "hey";
-
+׳׳׳
 #!/usr/bin/python3
 from datetime import datetime
 simha = {
@@ -19,6 +17,6 @@ simha = {
                    'graduate date': datetime(year=2024, month=8, day=5)                  
        }
 }
-
+׳׳׳
 - 📫 How to reach me: ...
 
