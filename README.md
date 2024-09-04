@@ -1,9 +1,9 @@
-## Hi, I'm Simha Marouani!  👋
+# Hi, I'm Simha Marouani!  👋 #
 
 Junior Software Enginner
 
-## A little more about me... ## 
-'''
+## A little more about me... ##
+``` python3
 #!/usr/bin/python3
 from datetime import datetime
 simha = {
@@ -16,7 +16,9 @@ simha = {
                    'collage': 'Hadassah Academic College',
                    'graduate date': datetime(year=2024, month=8, day=5)                  
        }
-}'''
+}
+```
 ׳׳׳
-- 📫 How to reach me: ...
-
+### 📫 How to reach me: ###
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simha-marouani/)
+or email: simha.marouani@gmail.com
