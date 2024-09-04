@@ -3,7 +3,7 @@
 Junior Software Enginner
 
 ## A little more about me... ## 
-׳׳׳
+'''
 #!/usr/bin/python3
 from datetime import datetime
 simha = {
@@ -16,7 +16,7 @@ simha = {
                    'collage': 'Hadassah Academic College',
                    'graduate date': datetime(year=2024, month=8, day=5)                  
        }
-}
+}'''
 ׳׳׳
 - 📫 How to reach me: ...
 
