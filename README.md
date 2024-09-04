@@ -5,7 +5,6 @@ A Junior Software Enginner
 
 ## A little more about me... ##
 ``` python3
-#!/usr/bin/python3
 from datetime import datetime
 simha = {
        'full name': 'Simha Marouani',
