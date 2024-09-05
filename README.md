@@ -13,7 +13,7 @@ simha = {
        'studies': {
                    'major': 'Computer Science',
                    'type': 'B.Sc',
-                   'collage': 'Hadassah Academic College',
+                   'college': 'Hadassah Academic College',
                    'graduate date': datetime(year=2024, month=8, day=5)                  
        }
 }
